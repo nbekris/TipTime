@@ -1,5 +1,5 @@
 # TipTime
-Practice app for learning Kotlin
+Practice tip calculator app for learning Kotlin
 
 includes some basic logic for caclulating tip.
 
